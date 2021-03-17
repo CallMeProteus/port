@@ -1,4 +1,4 @@
 # portfolio
 
 
-link: https://callmeproteus.github.io/portfolio/
+link: https://callmeproteus.github.io/port/
